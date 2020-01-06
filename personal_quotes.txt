@@ -9,9 +9,7 @@ the best way to create future
 
 hello, how are you?
 
-<<<<<<< Updated upstream
 i am fine thank you!
-=======
+
 
 heyyyyyy
->>>>>>> Stashed changes
