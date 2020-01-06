@@ -1,3 +1,7 @@
 strength through struggle
 
+<<<<<<< HEAD
 i like blue
+=======
+i like blue - jimil patel
+>>>>>>> personal_quotes
